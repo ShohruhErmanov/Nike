@@ -1,0 +1,187 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.container{
+    width: 1400px;
+    margin: auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    width: 100%;
+   
+}
+.nav{
+    padding: 28px 54px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list{
+    display: flex;
+
+}
+.item{
+    padding: 15px 15px 15px 15px;
+    display: inline-block;
+    color: #3A3838;
+    font-weight: 700;
+    font-size: 18px;
+}
+.logo h4 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #000000;
+}
+
+
+.cards{
+    display: flex;
+}
+
+.card{
+    width: 350px;
+    height: 378px;
+    left: 0px;
+    top: 414px;
+    background: #B71C1C;
+    
+}
+.card h4{
+    color: white;
+    padding: 4px;
+    
+}
+.card p{
+    color: white;
+    padding: 10px;
+}
+.card2{
+    width: 350px;
+    height: 378px;
+    background: #6A1B9A;
+    
+}
+.card2 h4{
+    color: white;
+    padding: 4px;
+}
+.card2 p{
+    color: white;
+    padding: 10px;
+}
+.card2 img{
+   
+    width: 350px;
+    height: 207px;
+}
+.card3{
+    width: 350px;
+    height: 378px;
+    background: #303F9F;
+}
+.card3 h4{
+    color: white;
+    padding: 4px;
+}
+.card3 p{
+    color: white;
+    padding: 10px;
+}
+.card4{
+    width: 350px;
+    height: 378px;
+    background: #00695C;
+}
+.card4 h4{
+    color: white;
+    padding: 4px;
+}
+.card4 p{
+    color: white;
+    padding: 10px;
+}
+.card4 img{
+    width: 350px;
+    height: 207px;
+}
+h3{
+    text-align: center;
+    font-weight: 700;
+    margin: 10px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+
+}
+.bos{
+    
+    
+    width: 1400px;
+    height: 531px;
+   
+    background: #EDEDED;
+}
+.boss{
+    padding:  130px;
+    
+    display: flex;
+    
+}
+.boss img{
+    left: 130px;
+top: 900px;
+    width: 600px;
+    height: 400px;
+   
+  
+}
+.boss1{
+    padding: 30px;
+}
+.boss1 h4{
+    padding: 4px;
+}
+footer{
+    padding: 50px 54px
+   
+}
+.footer_menu{
+    padding: 28px 54px;
+    display: flex;
+    justify-content: space-between;
+    background: #3A3838;
+}
+.item1{
+    padding: 15px 15px 15px 15px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+.item1 a{
+    color: white;
+}
+
+.logo h3{
+    color: white;
+}
+.blok h4{
+    color: white;
+}
+.blok1 a{
+    color: red;
+}
+.blok2 a{
+    color: red;
+}
+
+
